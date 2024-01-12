@@ -1,6 +1,6 @@
 # Personal Website
 
-Welcome to my personal website project! I built this website during my 10th standard as a way to showcase my skills, projects, and provide information about myself.
+Welcome to my personal website project!
 
 ## Features
 
