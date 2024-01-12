@@ -19,7 +19,7 @@ Welcome to my personal website repository! This project contains the source code
 
 ## Live Website
 
-Visit [https://elliotalien.github.io/](https://elliotalien.github.io/) to explore the live version of my personal website.
+Visit [My Page](https://elliotalien.github.io/elliotalien/) to explore the live version of my personal website.
 
 ## Getting Started
 
